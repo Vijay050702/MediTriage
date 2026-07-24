@@ -1,0 +1,2 @@
+[functions.send-appointment-reminder]
+verify_jwt = false
